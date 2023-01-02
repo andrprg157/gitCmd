@@ -1,2 +1,2 @@
-# gitCmd
-Adderd Files to Git USING Git CMd.
+# Git Cmd
+Add Files to Git USING Git CMd.
